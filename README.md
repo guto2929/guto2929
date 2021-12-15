@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi ! 👋
 
-<!--
-**guto2929/guto2929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Oii meu nome é Augusto e começei a estudar esse ano (2021) sobre Desenvolvimento de Sistemas. No começo foi só por curiosidade, apesar de desde pequeno gostar de tecnologia, mas agora pretendo estudar mais na área.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 São Paulo, Brazil
+- 📚1° Ano do Ensino Médio
+- 🏡 Músicas, Jogos, Programar
+
+
+
+# Status GitHub
+<p align="center">
+  <a href="https://github.com/jfutenma/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfutenma&layout=compact"
+    />
+    <br> <br>
+  </a>
+  <a href="https://github.com/jfutenma/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=jfutenma&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
+
+
+
+
+
