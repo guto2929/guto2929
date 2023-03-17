@@ -1,10 +1,10 @@
 # Hi ! 👋
 
-Oii meu nome é Augusto e começei a estudar esse ano (2021) sobre Desenvolvimento de Sistemas. No começo foi só por curiosidade, apesar de desde pequeno gostar de tecnologia, mas agora pretendo estudar mais na área.
+Oii meu nome é Augusto e começei a estudar no ano de 2021,Desenvolvimento de Sistemas. No começo foi só por curiosidade, apesar de desde pequeno gostar de tecnologia, mas agora pretendo estudar mais na área.
 
 
 - 📍 São Paulo, Brazil
-- 📚1° Ano do Ensino Médio
+- 📚3° Ano do Ensino Médio
 - 🏡 Músicas, Jogos, Programar
 
 
