@@ -37,4 +37,4 @@ Oii meu nome é Augusto e começei a estudar no ano de 2021,Desenvolvimento de S
 <a href=></a>
 <br><br>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Kalashnikov;)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Augusto;)](https://git.io/typing-svg)
